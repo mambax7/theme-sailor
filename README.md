@@ -6,7 +6,7 @@ Sailor Bootstrap Theme For XOOPS CMS 2.5.8.x
 Sailor is a responsive HTML site template for corporate business. Has lot of features and designed for many kind website such as corporate business, portfolio, product showcase..etc.
 This template built with Bootstrap 3.2 and coming with boxed and wide layout, 10 pre-defined template colors, 10 pattern backgrounds, WOW animation effects, and many more. 
 
-Ported to XOOPS CMS 2.5.8.x
+Ported to XOOPS [CMS 2.5.8.x](http://xoops.org/modules/news/article.php?storyid=6762)
 
 LICENCE:
 --------
