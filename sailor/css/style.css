@@ -2574,6 +2574,9 @@ a.btn.btn-wide {
 	outline:0;
 }
 
-
-
 /* Theme Styler :: End */
+
+.maincontainer {
+    margin-top: 75px;
+    margin-bottom: 20px;
+}
